@@ -1,0 +1,10 @@
+Feature,Feature_Raw,Importance,Rank
+Social Title,Title,0.3138,1
+Sex,Sex,0.2833,2
+Passenger Class,Pclass,0.1222,3
+Family Survival,Family_Survival,0.1092,4
+Family Size,FamilySize,0.0639,5
+Fare Band,FareGroup,0.0578,6
+Age Group,AgeGroup,0.0269,7
+Travelling Alone,IsAlone,0.0124,8
+Port of Embarkation,Embarked,0.0104,9

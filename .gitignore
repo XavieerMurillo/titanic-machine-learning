@@ -1,0 +1,22 @@
+# Claude Code
+.claude/
+
+# Power BI temporarios
+*.pbix.bak
+*.tmp
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Tema proprio - nao publicar
+tema_titanic.json

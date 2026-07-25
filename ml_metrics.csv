@@ -1,0 +1,7 @@
+Metric,Value,Description
+Accuracy,0.853,Share of passengers classified correctly
+Precision,0.8676,"Of those predicted to survive, how many did"
+Recall,0.7281,"Of those who survived, how many were caught"
+F1 Score,0.7917,Balance between precision and recall
+ROC AUC,0.8774,Ability to rank survivors above non-survivors
+Kaggle Public Score,0.8086,Accuracy on the unseen Kaggle test set
