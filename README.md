@@ -37,6 +37,5 @@ The objective of this project is to predict passenger survival on the Titanic us
 ---
 
 ## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/titanic-machine-learning.git](https://github.com/YOUR_USERNAME/titanic-machine-learning.git) ```
+1. Clone this repository using git clone with your repository URL.
+2. Open and run the `notebook.ipynb` file in Jupyter Notebook, Google Colab, or Kaggle Notebook environment.
